@@ -1,0 +1,5 @@
+loadstring(game:HttpGet(('https://gitlab.com/Tsuniox/lua-stuff/-/raw/master/RagdollEngineGUI.lua'),true))()
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Remake by ButterDev#1234";
+	Text = "Have fun)";
+})
